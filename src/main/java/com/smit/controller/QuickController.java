@@ -16,6 +16,6 @@ public class QuickController {
     @RequestMapping("/quick")
     @ResponseBody
     public String quick() {
-        return "nihao  springboot";
+        return "hello  springboot";
     }
 }
